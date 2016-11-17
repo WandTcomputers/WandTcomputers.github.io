@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://wandtcomputers.github.io" resolutions="1x" timestamp="1479353213480">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://wandt.cf" resolutions="1x" timestamp="1479353645152">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="436463301" ref="index"/>
