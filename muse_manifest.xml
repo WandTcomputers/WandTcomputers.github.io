@@ -1,18 +1,37 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://wandtcomputers.github.io" resolutions="1x" timestamp="1479275812359">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://wandtcomputers.github.io" resolutions="1x" timestamp="1479353213480">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="202070257" ref="index"/>
+    <file name="index.css" crc="436463301" ref="index"/>
+    <file name="build-a-pc.css" crc="4231095617" ref="build-a-pc"/>
+    <file name="about.css" crc="484730469" ref="about"/>
+    <file name="prebuilt.css" crc="4087081804" ref="prebuilt"/>
+    <file name="custom.css" crc="3929372947" ref="custom"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="163421577" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="36584860" ref="index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index"/>
-    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:build-a-pc:about:custom:prebuilt"/>
+    <file name="museutils.js" crc="163421577" ref="index:build-a-pc:about:custom:prebuilt"/>
+    <file name="whatinput.js" crc="86476730" ref="index:build-a-pc:about:custom:prebuilt"/>
+    <file name="museconfig.js" crc="36584860" ref="index:build-a-pc:about:custom:prebuilt"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:build-a-pc:about:custom:prebuilt"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:build-a-pc:about:custom:prebuilt"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:build-a-pc:about:custom:prebuilt"/>
+    <file name="require.js" crc="244322403" ref="index:build-a-pc:about:custom:prebuilt"/>
   </folder>
   <folder name="images">
-    <file name="untitled-1.png" crc="4219740564" seo="true" ref="index"/>
+    <file name="m-t circle.png" crc="6846230" seo="true" ref="index:build-a-pc:about:custom:prebuilt"/>
+    <file name="u114-4.png" crc="4294392171" ref="index"/>
+    <file name="u661-4.png" crc="321306643" ref="index"/>
+    <file name="u666-4.png" crc="4009313723" ref="index"/>
+    <file name="u725-4.png" crc="3832078845" ref="build-a-pc"/>
+    <file name="u866-4.png" crc="4294392171" ref="about"/>
+    <file name="u850-4.png" crc="321306643" ref="about"/>
+    <file name="u849-4.png" crc="4009313723" ref="about"/>
+    <file name="u1159-4.png" crc="3832078845" ref="custom"/>
+    <file name="u1508-4.png" crc="3832078845" ref="prebuilt"/>
   </folder>
-  <file name="index.html" crc="110990712" seo="true" mt="1479275765594" redirect="true"/>
+  <file name="index.html" crc="370497256" seo="true" mt="1479353193717" redirect="true"/>
+  <file name="build-a-pc.html" crc="204274682" seo="true" mt="1479350901630" redirect="true"/>
+  <file name="about.html" crc="3950402297" seo="true" mt="1479350901664" redirect="true"/>
+  <file name="custom.html" crc="3959205453" seo="true" mt="1479350929181" redirect="true"/>
+  <file name="prebuilt.html" crc="199604127" seo="true" mt="1479350918848" redirect="true"/>
 </manifest>
