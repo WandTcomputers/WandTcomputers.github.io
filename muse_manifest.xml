@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://wandt.cf" resolutions="1x" timestamp="1479353645152">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://wandt.cf" resolutions="1x" timestamp="1479356594019">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="436463301" ref="index"/>
+    <file name="index.css" crc="4165993937" ref="index"/>
     <file name="build-a-pc.css" crc="4231095617" ref="build-a-pc"/>
     <file name="about.css" crc="484730469" ref="about"/>
     <file name="prebuilt.css" crc="4087081804" ref="prebuilt"/>
@@ -21,7 +21,7 @@
     <file name="m-t circle.png" crc="6846230" seo="true" ref="index:build-a-pc:about:custom:prebuilt"/>
     <file name="u114-4.png" crc="4294392171" ref="index"/>
     <file name="u661-4.png" crc="321306643" ref="index"/>
-    <file name="u666-4.png" crc="4009313723" ref="index"/>
+    <file name="u666-4.png" crc="60009394" ref="index"/>
     <file name="u725-4.png" crc="3832078845" ref="build-a-pc"/>
     <file name="u866-4.png" crc="4294392171" ref="about"/>
     <file name="u850-4.png" crc="321306643" ref="about"/>
@@ -29,7 +29,7 @@
     <file name="u1159-4.png" crc="3832078845" ref="custom"/>
     <file name="u1508-4.png" crc="3832078845" ref="prebuilt"/>
   </folder>
-  <file name="index.html" crc="370497256" seo="true" mt="1479353193717" redirect="true"/>
+  <file name="index.html" crc="4003074644" seo="true" mt="1479356423560" redirect="true"/>
   <file name="build-a-pc.html" crc="204274682" seo="true" mt="1479350901630" redirect="true"/>
   <file name="about.html" crc="3950402297" seo="true" mt="1479350901664" redirect="true"/>
   <file name="custom.html" crc="3959205453" seo="true" mt="1479350929181" redirect="true"/>
